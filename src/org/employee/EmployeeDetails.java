@@ -13,6 +13,10 @@ public class EmployeeDetails {
 		System.out.println("Employee name: Anand");
 	}
 	
+	private void empId() {
+		System.out.println("employee id: 1234");
+	}
+	
 	public static void main(String[] args) {
 		
 		EmployeeDetails emp = new EmployeeDetails();
