@@ -12,10 +12,15 @@ public class EmployeeDetails {
 
 		System.out.println("Employee name: Anand");
 	}
-	
+	private void empMobile() {
+		System.out.println("employee mobile: 999999999");
+	}
 	private void empId() {
 		System.out.println("employee id: 1234");
 	}
+//<<<<<<< HEAD
+//=======
+//>>>>>>> 58e189bc2febc7711397da8a41be661d8eba8370
 	
 	public static void main(String[] args) {
 		
